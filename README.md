@@ -22,8 +22,4 @@ text
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachkeerat2802&theme=nightowl&layout=compact&hide_border=true&border_radius=5&card_width=350" />
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sachkeerat2802&theme=nightowl&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=350&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachkeerat2802&theme=nightowl&layout=compact&hide_border=true&border_radius=5&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
