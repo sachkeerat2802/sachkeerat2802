@@ -1,4 +1,4 @@
-about me
+Hey there! I'm Sachkeerat, a final year BCA student majoring in ML & AI with a keen interest in building web applications!
 
 ---
 
@@ -17,10 +17,6 @@ about me
 ![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android)
 ![Bash](https://img.shields.io/badge/Bash-293137?style=for-the-badge&logo=linux)
 ![Figma](https://img.shields.io/badge/Figma-b67148?style=for-the-badge&logo=figma&logoColor=white)
-![Netlify]()
-![Vercel]()
-![Firebase]()
-![DigitalOcean]()
 
 ### GitHub Stats 📊
 <a href="https://git.io/streak-stats">
