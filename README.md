@@ -1,13 +1,11 @@
 about me
 
 ---
-
 <br>
 
 ### Socials 📱
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sachkeerat/) 
 [![Codepen](https://img.shields.io/badge/Codepen-131417?style=for-the-badge&logo=codepen)](https://codepen.io/sachkeerat2802) 
-
 <br>
 
 ### Tech Stack 👨🏻‍💻
@@ -25,7 +23,6 @@ about me
 ![Vercel]()
 ![Firebase]()
 ![DigitalOcean]()
-
 <br>
 
 ### GitHub Stats 📊
